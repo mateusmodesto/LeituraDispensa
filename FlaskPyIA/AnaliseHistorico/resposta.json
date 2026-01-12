@@ -1,0 +1,935 @@
+{
+    "resultado": {
+        "detalhes": {
+            "aluno": {
+                "curso": "Curso de Administração - Bacharelado",
+                "matricula": "PA1522450",
+                "nome": "DANIEL CASTOR ARAUJO",
+                "periodo_ingresso": "2015.2"
+            },
+            "comparacao_disciplinas": [
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0002",
+                        "creditos": 0,
+                        "nome": "COMPORTAMENTO HUMANO NAS ORGANIZAÇÕES",
+                        "nota": "—",
+                        "situacao": "INDEFINIDO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_COMORG_80",
+                        "nome": "COMPORTAMENTO ORGANIZACIONAL"
+                    },
+                    "observacao": "Disciplina cursada equivalente com situação INDEFINIDO (Não Cursado).",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_ELETI_40",
+                        "nome": "ELETIVA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 60,
+                        "codigo": "SU-B0052",
+                        "creditos": 0,
+                        "nome": "EMPREENDEDORISMO E PLANO DE NEGÓCIOS",
+                        "nota": "6,06",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_EMPRE_80",
+                        "nome": "EMPREENDEDORISMO"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, mas com carga horária inferior.",
+                    "porcentagem_aproveitamento": 75.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0007",
+                        "creditos": 0,
+                        "nome": "INTERPRETAÇÃO E PRODUÇÃO DE TEXTOS",
+                        "nota": "—",
+                        "situacao": "INDEFINIDO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_LEIPROTEX_40",
+                        "nome": "LEITURA E PRODUÇÃO DE TEXTOS"
+                    },
+                    "observacao": "Disciplina cursada equivalente com situação INDEFINIDO (Não Cursado).",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 60,
+                        "codigo": "SU-B0013",
+                        "creditos": 0,
+                        "nome": "TECNOLOGIAS DA INFORMAÇÃO",
+                        "nota": "7,30",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_REDSOCTECINF_80",
+                        "nome": "REDES SOCIAIS E AS TECNOLOGIAS DA INFORMAÇÃO"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, mas com carga horária inferior.",
+                    "porcentagem_aproveitamento": 75.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0164",
+                        "creditos": 0,
+                        "nome": "EVOLUÇÃO DO PENSAMENTO ADMINISTRATIVO",
+                        "nota": "10,00",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_TEOADM_80",
+                        "nome": "TEORIAS DA ADMINISTRAÇÃO"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada.",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 60,
+                        "codigo": "SU-B0027",
+                        "creditos": 0,
+                        "nome": "DIREITO NAS ORGANIZAÇÕES",
+                        "nota": "9,47",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_DIREMP_80",
+                        "nome": "DIREITO EMPRESARIAL"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, mas com carga horária inferior.",
+                    "porcentagem_aproveitamento": 75.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0065",
+                        "creditos": 0,
+                        "nome": "GESTÃO DE PESSOAS",
+                        "nota": "7,18",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_GESPES_80",
+                        "nome": "GESTÃO DE PESSOAS"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada.",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_MICRO_40",
+                        "nome": "MICROECONOMIA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_CRINOV_80",
+                        "nome": "CRIATIVIDADE E INOVAÇÃO"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0022",
+                        "creditos": 0,
+                        "nome": "INSTITUIÇÕES DE DIREITO",
+                        "nota": "7,60",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_LEGTRAPRE_80",
+                        "nome": "LEGISLAÇÃO TRABALHISTA E PREVIDENCIÁRIA"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, mas com carga horária inferior. O conteúdo da disciplina cursada inclui 'Legislação Previdenciária'.",
+                    "porcentagem_aproveitamento": 50.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0023",
+                        "creditos": 0,
+                        "nome": "MATEMÁTICA",
+                        "nota": "8,12",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_MATRACLOG_40",
+                        "nome": "MATEMÁTICA E RACIOCÍNIO LÓGICO"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada.",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0163",
+                        "creditos": 0,
+                        "nome": "CONTABILIDADE",
+                        "nota": "9,62",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_CONCOM_80",
+                        "nome": "CONTABILIDADE COMERCIAL"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada. 'Contabilidade' geralmente abrange aspectos comerciais.",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0163",
+                        "creditos": 0,
+                        "nome": "CONTABILIDADE",
+                        "nota": "9,62",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_FUCONT_80",
+                        "nome": "FUNDAMENTOS DE CONTABILIDADE"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada. 'Contabilidade' provavelmente abrange seus fundamentos.",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_PRATEX7008_5_40",
+                        "nome": "PRÁTICA EXTENSIONISTA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0067",
+                        "creditos": 0,
+                        "nome": "RESPONSABILIDADE SOCIAL",
+                        "nota": "9,62",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_DESSUS_40",
+                        "nome": "DESENVOLVIMENTO SUSTENTÁVEL"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada. 'Desenvolvimento Sustentável' é um tópico abrangido pela 'Responsabilidade Social'.",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0022",
+                        "creditos": 0,
+                        "nome": "INSTITUIÇÕES DE DIREITO",
+                        "nota": "7,60",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_DITRIB_80",
+                        "nome": "DIREITO TRIBUTÁRIO"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, mas com carga horária inferior. O conteúdo da disciplina cursada inclui 'Sistema Tributário Nacional. Tributação Internacional'.",
+                    "porcentagem_aproveitamento": 50.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0023",
+                        "creditos": 0,
+                        "nome": "MATEMÁTICA",
+                        "nota": "8,12",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_MATRACNUM_80",
+                        "nome": "MATEMÁTICA E RACIOCINIO NUMÉRICO"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, mas com carga horária inferior. Outra disciplina relacionada 'MATEMÁTICA APLICADA' (40h, AP) também existe, totalizando 80h de Matemática.",
+                    "porcentagem_aproveitamento": 50.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_PRATEX7008_6_40",
+                        "nome": "PRÁTICA EXTENSIONISTA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0032",
+                        "creditos": 0,
+                        "nome": "MATEMÁTICA FINANCEIRA",
+                        "nota": "9,55",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_MATFIN_80",
+                        "nome": "MATEMÁTICA FINANCEIRA"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, mas com carga horária inferior.",
+                    "porcentagem_aproveitamento": 50.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_PRATEX7008_7_40",
+                        "nome": "PRÁTICA EXTENSIONISTA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0067",
+                        "creditos": 0,
+                        "nome": "RESPONSABILIDADE SOCIAL",
+                        "nota": "9,62",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_RELETNRESSOC_40",
+                        "nome": "RELAÇÕES ÉTNICO-RACIAIS E RESPONSABILIDADE SOCIAL"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada. 'Desenvolvimento Sustentável' é um tópico abrangido pela 'Responsabilidade Social'.",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0041",
+                        "creditos": 0,
+                        "nome": "ESTATÍSTICA",
+                        "nota": "8,50",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_ESTAT_80",
+                        "nome": "ESTATÍSTICA"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, mas com carga horária inferior. Outra disciplina relacionada 'ESTATÍSTICA APLICADA' (40h, AP) também existe, totalizando 80h de Estatística.",
+                    "porcentagem_aproveitamento": 50.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0030",
+                        "creditos": 0,
+                        "nome": "GESTÃO MERCADOLÓGICA",
+                        "nota": "—",
+                        "situacao": "INDEFINIDO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_MAREST_80",
+                        "nome": "MARKETING ESTRATÉGICO"
+                    },
+                    "observacao": "Disciplina cursada equivalente com situação INDEFINIDO (Não Cursado).",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_PRATEX7008_8_40",
+                        "nome": "PRÁTICA EXTENSIONISTA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_CONSU_40",
+                        "nome": "CONSULTORIA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 60,
+                        "codigo": "SU-B0040",
+                        "creditos": 0,
+                        "nome": "ELABORAÇÃO E ANÁLISE DE PROJETOS",
+                        "nota": "6,62",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_GESPRO_80",
+                        "nome": "GESTÃO DE PROJETOS"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, mas com carga horária inferior.",
+                    "porcentagem_aproveitamento": 75.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_PRATEX7008_9_40",
+                        "nome": "PRÁTICA EXTENSIONISTA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0041",
+                        "creditos": 0,
+                        "nome": "ESTATÍSTICA",
+                        "nota": "8,50",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 60,
+                        "codigo": "EAD_ESTAVAN_60",
+                        "nome": "ESTATISTICA AVANÇADA"
+                    },
+                    "observacao": "Duas disciplinas de Estatística (40h e 40h) foram encontradas e aprovadas, cobrindo e superando a carga horária da nova disciplina de 'Estatística Avançada'.",
+                    "porcentagem_aproveitamento": 66.7,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_MACRO_80",
+                        "nome": "MACROECONOMIA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0057",
+                        "creditos": 0,
+                        "nome": "ADMINISTRAÇÃO INTEGRADA",
+                        "nota": "6,62",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_ADMCON_40",
+                        "nome": "ADMINISTRAÇÃO CONTEMPORÂNEA"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada.",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0030",
+                        "creditos": 0,
+                        "nome": "GESTÃO MERCADOLÓGICA",
+                        "nota": "—",
+                        "situacao": "INDEFINIDO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_ADMMAR_40",
+                        "nome": "ADMINISTRAÇÃO DE MARKETING"
+                    },
+                    "observacao": "Disciplina cursada equivalente com situação INDEFINIDO (Não Cursado).",
+                    "porcentagem_aproveitamento": 200.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 60,
+                        "codigo": "SU-B0079",
+                        "creditos": 0,
+                        "nome": "PESQUISA OPERACIONAL",
+                        "nota": "—",
+                        "situacao": "INDEFINIDO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 80,
+                        "codigo": "EAD_PESOPE_80",
+                        "nome": "PESQUISA OPERACIONAL"
+                    },
+                    "observacao": "Disciplina cursada equivalente com situação INDEFINIDO (Não Cursado).",
+                    "porcentagem_aproveitamento": 75.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_PRATEX7008_11_40",
+                        "nome": "PRÁTICA EXTENSIONISTA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 300,
+                        "codigo": "SU-B0074",
+                        "creditos": 0,
+                        "nome": "ESTÁGIO",
+                        "nota": "—",
+                        "situacao": "INDEFINIDO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 400,
+                        "codigo": "EAD_ESTAGCUR7008_400",
+                        "nome": "ESTÁGIO SUPERVISIONADO"
+                    },
+                    "observacao": "Disciplina cursada equivalente com situação INDEFINIDO (Não Cursado) e carga horária inferior.",
+                    "porcentagem_aproveitamento": 75.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_LINBRASINOPT_40",
+                        "nome": "LÍNGUA BRASILEIRA DE SINAIS (OPTATIVA)"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0043",
+                        "creditos": 0,
+                        "nome": "GESTÃO DE SUPRIMENTOS E LOGÍSTICA",
+                        "nota": "10,00",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_ADMMATLOG_40",
+                        "nome": "ADMINISTRAÇÃO DE MATERIAIS E LOGÍSTICA"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, com carga horária superior.",
+                    "porcentagem_aproveitamento": 200.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_ANEMSO_40",
+                        "nome": "ANÁLISE EMPRESARIAL E SOCIETÁRIA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0045",
+                        "creditos": 0,
+                        "nome": "METODOLOGIA DO TRABALHO ACADÊMICO",
+                        "nota": "10,00",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_METINVCIE_40",
+                        "nome": "METODOLOGIA DA INVESTIGAÇÃO CIENTÍFICA"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada.",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0064",
+                        "creditos": 0,
+                        "nome": "GESTÃO DAS INFORMAÇÕES",
+                        "nota": "7,60",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_INTMER_40",
+                        "nome": "INTELIGÊNCIA DE MERCADO"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, com carga horária superior e conteúdo relacionado ('Inteligência Competitiva' na ementa).",
+                    "porcentagem_aproveitamento": 200.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_PESMER_40",
+                        "nome": "PESQUISA DE MERCADO"
+                    },
+                    "observacao": "Nenhuma disciplina diretamente equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0068",
+                        "creditos": 0,
+                        "nome": "ADMINISTRAÇÃO ESTRATÉGICA",
+                        "nota": "7,45",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_ESTEMP_40",
+                        "nome": "ESTRATÉGIA EMPRESARIAL"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, com carga horária superior.",
+                    "porcentagem_aproveitamento": 200.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0064",
+                        "creditos": 0,
+                        "nome": "GESTÃO DAS INFORMAÇÕES",
+                        "nota": "7,60",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_SISINTGES_40",
+                        "nome": "SISTEMA INTEGRADO DE GESTÃO"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, com carga horária superior e conteúdo relacionado ('Sistemas Integrados de Gestão' no programa).",
+                    "porcentagem_aproveitamento": 200.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0036",
+                        "creditos": 0,
+                        "nome": "ADMINISTRAÇÃO FINANCEIRA",
+                        "nota": "8,12",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_ADMFIN_40",
+                        "nome": "ADMINISTRAÇÃO FINANCEIRA"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, com carga horária superior.",
+                    "porcentagem_aproveitamento": 200.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0035",
+                        "creditos": 0,
+                        "nome": "PROCESSOS ORGANIZACIONAIS",
+                        "nota": "6,62",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_ADMQU_40",
+                        "nome": "ADMINISTRAÇÃO DA QUALIDADE"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, com carga horária superior e conteúdo relacionado ('Sistemas de Gestão da Qualidade' na ementa).",
+                    "porcentagem_aproveitamento": 200.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0036",
+                        "creditos": 0,
+                        "nome": "ADMINISTRAÇÃO FINANCEIRA",
+                        "nota": "8,12",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_FINCOR_40",
+                        "nome": "FINANÇAS CORPORATIVAS"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, com carga horária superior e conteúdo relacionado (abrange 'Estrutura e custo de capital').",
+                    "porcentagem_aproveitamento": 200.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_PRATEX7008_15_40",
+                        "nome": "PRÁTICA EXTENSIONISTA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0055",
+                        "creditos": 0,
+                        "nome": "GESTÃO DAS OPERAÇÕES PRODUTIVAS",
+                        "nota": "7,75",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_ADMPRO_40",
+                        "nome": "ADMINISTRAÇÃO DA PRODUÇÃO"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, com carga horária superior.",
+                    "porcentagem_aproveitamento": 200.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 80,
+                        "codigo": "SU-B0036",
+                        "creditos": 0,
+                        "nome": "ADMINISTRAÇÃO FINANCEIRA",
+                        "nota": "8,12",
+                        "situacao": "APROVADO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_MERFINCAP_40",
+                        "nome": "MERCADO FINANCEIRO E DE CAPITAIS"
+                    },
+                    "observacao": "Disciplina equivalente encontrada e aprovada, com carga horária superior e conteúdo relacionado ('Produtos do Mercado Financeiro' no programa).",
+                    "porcentagem_aproveitamento": 200.0,
+                    "possivel_dispensa": true
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 0,
+                        "codigo": "",
+                        "creditos": 0,
+                        "nome": "",
+                        "nota": "",
+                        "situacao": ""
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_PRATEX7008_16_40",
+                        "nome": "PRÁTICA EXTENSIONISTA"
+                    },
+                    "observacao": "Nenhuma disciplina equivalente encontrada no histórico.",
+                    "porcentagem_aproveitamento": 0.0,
+                    "possivel_dispensa": false
+                },
+                {
+                    "disciplina_cursada_equivalente": {
+                        "carga_horaria": 40,
+                        "codigo": "SU-B0080",
+                        "creditos": 0,
+                        "nome": "TÓPICOS DE ATUAÇÃO PROFISSIONAL",
+                        "nota": "—",
+                        "situacao": "INDEFINIDO"
+                    },
+                    "nova_disciplina": {
+                        "carga_horaria": 40,
+                        "codigo": "EAD_TOPESPADM_40",
+                        "nome": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO"
+                    },
+                    "observacao": "Disciplina cursada equivalente com situação INDEFINIDO (Não Cursado).",
+                    "porcentagem_aproveitamento": 100.0,
+                    "possivel_dispensa": false
+                }
+            ]
+        },
+        "mensagem": "Histórico analisado com sucesso",
+        "status": "sucesso"
+    },
+    "status": "processado"
+}
